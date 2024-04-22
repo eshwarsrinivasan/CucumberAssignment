@@ -12,4 +12,8 @@ Running the feature file in IDE:
 
 Running Test using CMD CLI:
  1. Install maven > 3.6
- 2. Run command "mvn test". This will identify the TestRunner created within the project where you can define the location of feature file and step definition. 
+ 2. Run command "mvn test". This will identify the TestRunner created within the project where you can define the location of feature file and step definition.
+
+Future enhancements:
+ 1. Implementation of log4j for standard logging.
+ 2. Use of cucumber report using plugins in Test Runner file.
