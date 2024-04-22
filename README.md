@@ -3,7 +3,7 @@ This project is implementation of the test scenarios for Open Exchange Api.
 All the acceptance criteria mentioned in the PDF are covered as scenarios in the feature file. (src/test/resources/OpenExchangeTest.feature) 
 
 Some Key Features:
- 1. Created a Scenario Context class that would hole the values of attributes within a scenario so that they can be shared accross steps.This us done using dependecy injection using pico container. 
+ 1. Created a Scenario Context class that would hole the values of attributes within a scenario so that they can be shared accross steps.This is done using dependecy injection using pico container. 
  2. Use of hooks to achieve the point 1.
 
 Running the feature file in IDE:
